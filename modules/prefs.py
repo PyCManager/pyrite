@@ -30,7 +30,7 @@ import cPickle as pickle
 from sys import stderr
 from os import access, R_OK
 # Custom Modules:
-import cfg
+import modules.cfg
 from messages import PREFS_MESSAGE_DICT as MESSAGE_DICT
 
 
